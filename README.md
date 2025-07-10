@@ -34,6 +34,7 @@ Currently learning and building projects in **web development** and exploring th
 - 📱 WhatsApp: [0304-8375959](https://wa.me/923048375959)
 - 📧 Email: [hamzanoor11111122@gmail.com](mailto:hamzanoor11111122@gmail.com)
 - 🔗 LinkedIn: [Hamza Khan](https://www.linkedin.com/in/hamza-khan-691b75268/)
+- 
 
 ---
 
