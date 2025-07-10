@@ -23,6 +23,8 @@ Currently learning and building projects in **web development** and exploring th
 - 📄 CV / Resume Web Page
 - 🌐 Personal Portfolio Website
 - 🏛️ UI Clone of Governor’s Website
+- ✈️ PIA Management System
+- 🎓 Student Management System
 
 > *I’m from an Urdu-medium background, but I'm working hard to become fluent in both English and programming!* 💪
 
