@@ -44,6 +44,9 @@ Currently learning and building projects in **web development** and exploring th
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzabhai797&layout=compact&theme=radical)
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
 ---
 
 > “Code daily, grow slowly, win eventually.” 🚀
