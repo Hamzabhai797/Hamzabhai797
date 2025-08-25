@@ -42,9 +42,12 @@ Currently learning and building projects in **web development** and exploring th
 
 ![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamzabhai797&show_icons=true&theme=radical)
 
+### 🚀 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzabhai797&layout=compact&theme=radical)
 
+### 🛠️ Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 
 ---
