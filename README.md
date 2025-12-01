@@ -39,7 +39,6 @@ Currently learning and building projects in **web development** and exploring th
 ---
 
 ### 📊 GitHub Stats
-
 ![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamzabhai797&show_icons=true&theme=radical)
 
 ### 🚀 Most Used Languages
