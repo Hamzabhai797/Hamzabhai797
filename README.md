@@ -38,38 +38,18 @@ Currently learning and building projects in **web development** and exploring th
 
 ---
 
-### 📊 GitHub Stats
-## 📊 GitHub Stats  
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=HamzaNoor&show_icons=true&theme=tokyonight" height="180px" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaNoor&layout=compact&theme=tokyonight" height="180px" />
-
-</div>
+## 📊 GitHub Stats
+![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamzaNoor&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🚀 Most Used Languages  
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaNoor&theme=tokyonight" />
-
-</div>
+## 🚀 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaNoor&layout=compact&theme=tokyonight)
 
 ---
 
-## 🛠️ Frameworks & Libraries  
-<div align="center">
-
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-</div>
-
-
-### 🛠️ Frameworks & Libraries
+## 🛠️ Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 
 
 ---
