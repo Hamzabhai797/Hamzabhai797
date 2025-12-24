@@ -40,17 +40,10 @@ Currently learning and building projects in **web development** and exploring th
 
 ## 📊 GitHub Stats
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=HamzaNoor&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Hamza's GitHub Stats" />
-</div>
-
----
+![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzanoor&show_icons=true&theme=dark)
 
 ## 🚀 Most Used Languages
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaNoor&layout=compact&theme=tokyonight&hide_border=false" alt="Hamza's Top Languages" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzanoor&layout=compact&theme=dark)
 
 ---
 
