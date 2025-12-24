@@ -34,16 +34,16 @@ Currently learning and building projects in **web development** and exploring th
 - 📱 WhatsApp: [0304-8375959](https://wa.me/923048375959)
 - 📧 Email: [hamzanoor11111122@gmail.com](mailto:hamzanoor11111122@gmail.com)
 - 🔗 LinkedIn: [Hamza Khan](https://www.linkedin.com/in/hamza-khan-691b75268/)
-- 
 
 ---
 
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamzabhai797&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=Hamzabhai797&show_icons=true&theme=dark" />
 
-## 🚀 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzabhai797&layout=compact&theme=dark)
+<h2>🚀 Most Used Languages</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzabhai797&layout=compact&theme=dark" />
+
 
 ---
 
