@@ -40,10 +40,10 @@ Currently learning and building projects in **web development** and exploring th
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hamzabhai797&show_icons=true&theme=dark" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamzabhai797&show_icons=true&theme=dark)
 
 ## 🚀 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzabhai797&layout=compact&theme=dark" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzabhai797&layout=compact&theme=dark)
 
 ---
 
