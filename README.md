@@ -10,7 +10,8 @@ Currently learning and building projects in **web development** and exploring th
 - 🎯 My goals:
   - Become a successful **freelancer**
   - Become an **AI expert**
-  - Get a good **job** in the tech industry  
+  - Get a good **job** in the tech industry
+    
 - 🛠️ Skills I’m learning:
   - HTML, CSS, Bootstrap, Tailwind CSS
   - JavaScript, TypeScript
@@ -31,10 +32,9 @@ Currently learning and building projects in **web development** and exploring th
 ---
 
 ### 📫 Contact Me
-- 📱 WhatsApp: [0304-8375959](https://wa.me/923048375959)
-- 📧 Email: [hamzanoor11111122@gmail.com](mailto:hamzanoor11111122@gmail.com)
-- 🔗 LinkedIn: [Hamza Khan](https://www.linkedin.com/in/hamza-khan-691b75268/)
-
+📧 Email: hamzanoor11111122@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/hamza-khan-691b75268/  
+🐙 GitHub: https://github.com/Hamzabhai797
 ---
 
 <h2>📊 GitHub Stats</h2>
