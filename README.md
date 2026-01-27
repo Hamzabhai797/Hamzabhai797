@@ -31,11 +31,11 @@ Currently learning and building projects in **web development** and exploring th
 
 ---
 
-#### 📫 Contact Me
+### 📫 Contact Me
 
-📧 Email: [hamzanoor11111122@gmail.com ](https://mail.google.com/mail/u/0/#inbox) 
-🔗 LinkedIn: [https://www.linkedin.com/in/hamza-khan-691b75268/](https://www.linkedin.com/feed/)  
-🐙 GitHub: https://github.com/Hamzabhai797/Hamzabhai797
+- 📧 **Email:** hamzanoor11111122@gmail.com  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/hamza-khan-691b75268/  
+- 🐙 **GitHub:** https://github.com/Hamzabhai797
 ---
 
 <h2>📊 GitHub Stats</h2>
